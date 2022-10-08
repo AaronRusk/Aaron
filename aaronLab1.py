@@ -1,3 +1,7 @@
+# Taske 1:
+print('Hello, World')
+
+# Task 2:
 print('Hello, Aaron')
 
 # Task 3:
